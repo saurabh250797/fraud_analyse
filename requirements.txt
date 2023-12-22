@@ -1,6 +1,7 @@
-Streamlit version: 1.29.0
-Pandas version: 2.1.1
-Plotly version: 5.18.0
-PySpark version: 3.4.1
-Py4J version: 0.10.9.7
-NumPy version: 1.26.2
+streamlit==1.29.0
+pandas==2.1.1
+plotly==5.18.0
+pyspark==3.4.1
+py4j==0.10.9.7
+numpy==1.26.2
+
